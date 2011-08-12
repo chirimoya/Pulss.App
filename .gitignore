@@ -1,2 +1,6 @@
-app/cache
-vendor
+app/cache/
+vendor/
+
+.buildpath
+.project
+.settings/
