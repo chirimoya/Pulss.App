@@ -1,4 +1,6 @@
 app/cache/
+app/logs/dev.log
+app/logs/prod.log
 vendor/
 
 .buildpath
