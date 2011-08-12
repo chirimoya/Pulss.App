@@ -1,0 +1,6 @@
+[submodule "vendor/bundles/Pulss/CoreBundle"]
+	path = vendor/bundles/Pulss/CoreBundle
+	url = https://chirimoya@github.com/chirimoya/PulssCoreBundle.git
+[submodule "vendor/bundles/Pulss/BaseBundle"]
+	path = vendor/bundles/Pulss/BaseBundle
+	url = https://chirimoya@github.com/chirimoya/PulssBaseBundle.git
