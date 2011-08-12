@@ -1,3 +1,13 @@
+PulssBaseBundle:
+    resource: "@PulssBaseBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+PulssCoreBundle:
+    resource: "@PulssCoreBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 # Internal routing configuration to handle ESI
 #_internal:
 #   resource: "@FrameworkBundle/Resources/config/routing/internal.xml"
