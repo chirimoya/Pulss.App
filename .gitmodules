@@ -4,3 +4,6 @@
 [submodule "src/Pulss/BaseBundle"]
 	path = src/Pulss/BaseBundle
 	url = https://chirimoya@github.com/chirimoya/PulssBaseBundle.git
+[submodule "vendor/bundles/FOS/RestBundle"]
+	path = vendor/bundles/FOS/RestBundle
+	url = https://github.com/FriendsOfSymfony/FOSRestBundle.git

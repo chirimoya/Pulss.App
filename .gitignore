@@ -1,7 +1,10 @@
-app/cache/
-app/logs/dev.log
-app/logs/prod.log
+web/bundles/
+app/bootstrap*
+app/cache/*
+app/logs/*
 vendor/
+
+app/config/parameters.ini
 
 .buildpath
 .project
