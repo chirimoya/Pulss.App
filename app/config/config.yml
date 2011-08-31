@@ -69,3 +69,16 @@ swiftmailer:
 jms_security_extra:
     secure_controllers:  true
     secure_all_services: false
+    
+fos_rest:
+    view:
+        formats:
+            json: true
+            xml: true
+            rss: false
+        templating_formats:
+            html: true    
+    format_listener:
+        fallback_format: json
+    routing_loader:
+        default_format: json

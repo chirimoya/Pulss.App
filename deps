@@ -35,7 +35,6 @@
 
 [metadata]
     git=http://github.com/schmittjoh/metadata.git
-    version=1.0.0
 
 [SensioFrameworkExtraBundle]
     git=http://github.com/sensio/SensioFrameworkExtraBundle.git
@@ -71,3 +70,7 @@
 [FOSRestBundle]
     git=http://github.com/FriendsOfSymfony/FOSRestBundle.git
     target=bundles/FOS/RestBundle
+    
+[JMSSerializerBundle]
+    git=http://github.com/schmittjoh/JMSSerializerBundle.git
+    target=bundles/JMS/SerializerBundle
